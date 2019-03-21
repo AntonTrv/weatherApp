@@ -1,0 +1,9 @@
+.app {
+margin: auto;
+background-color: teal;
+color: darkred;
+height: 300px;
+width: 300px;
+display: flex;
+flex-direction: column;
+}
